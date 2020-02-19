@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [19/Feb/2020:22:56:10 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 200 46027 http-bio-8081-exec-1 2402
+127.0.0.1 - - [19/Feb/2020:22:57:21 +0800] "GET /rest/itemcat/all?callback=category.getDataService HTTP/1.1" 200 46027 http-bio-8081-exec-5 952
